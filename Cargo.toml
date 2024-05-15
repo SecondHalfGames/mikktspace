@@ -19,7 +19,7 @@ travis-ci = { repository = "gltf-rs/mikktspace" }
 
 [dependencies]
 nalgebra = { version = "0.30", optional = true }
-glam = { version = "0.24", optional = true }
+glam = { version = "0.27", optional = true }
 
 [[example]]
 name = "generate"
